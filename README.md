@@ -14,10 +14,10 @@ Key columns include:
 - **Neighbourhood**
 - **Scholarship**
 - **No-show**
-### ⚙️ Tools Used
+### Tools Used
 - **Microsoft Excel** – for data cleaning and preprocessing  
 - **GitHub** – for version control and project sharing
-### 🧠 Steps Performed
+  # Steps Performed
 
 #### 1. Data Inspection
 - Reviewed the dataset to identify missing values, duplicates, and inconsistent entries.
@@ -49,18 +49,16 @@ Key columns include:
 | `Medical_Appointment_NoShow_Cleaned.xlsx` | Cleaned and processed dataset |
 | `Task1_Summary.pdf` | Summary of cleaning process and outcomes |
 | `README.md` | Project documentation |
-### ✅ Key Learning Outcomes
+### Key Learning Outcomes
 - Identifying and correcting common data quality issues  
 - Using Excel tools and formulas for data preprocessing  
 - Preparing clean, structured data suitable for analysis  
 - Documenting workflow clearly for reproducibility
-### 💡 Next Steps
+### Next Steps
 Future work could include:
 - Performing exploratory data analysis (EDA) on the cleaned dataset  
 - Visualizing attendance trends by gender, age, and scholarship status  
 - Building predictive models using Python (Pandas and Scikit-learn)
-
----
 
  Author
 **Gift Edeko**  
